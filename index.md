@@ -11,7 +11,7 @@ I am a computer science major at CSUF and I plan on graduating in 2026.
 
 * Lab 7:
 
-    This was one of my favorites because I got more comfortable writing if statements and using boolean expressions. I became more familiar using the logical operators such as || and && which became very useful. I remember having a difficult time with one of the parking situations that had a 30 minute mark, but it was quickly resolved with the help of my instructor, partner, and online resources. 
+    This was one of my favorites because I got more comfortable writing if statements and using boolean expressions. I became more familiar using the logical operators such as "||" and && which became very useful. I remember having a difficult time with one of the parking situations that had a 30 minute mark, but it was quickly resolved with the help of my instructor, partner, and online resources. 
 
 * Lab 8, part 1:
 
